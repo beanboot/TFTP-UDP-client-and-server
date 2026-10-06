@@ -46,11 +46,3 @@ Alternatively, the project can be compiled using Maven:
 ```bash
 mvn compile
 ```
-
----
-
-## Post-Submission Updates
-
-> **Repository Note:** This project was originally developed as part of my university coursework.
->
-> The repository was later updated to improve documentation and presentation. These updates do not modify the original implementation or its functionality.
